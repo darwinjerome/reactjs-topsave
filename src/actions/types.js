@@ -1,0 +1,19 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_ERROR = 'SIGNUP_ERROR';
+
+export const FETCH_USER = 'FETCH_USER';
+export const SET_USER = 'SET_USER';
+
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const CREATE_PRODUCT = 'CREATE_PRODUCT';
+export const SEARCH_PRODUCT  = 'SEARCH_PRODUCT';
+
+export const POST_PRODUCT = 'POST_PRODUCT';
+
+export const PRODUCT_ERROR = 'PRODUCT_ERROR';
+
+export const GET_ESTOKEN = 'GET_ESTOKEN';
+export const GET_ESTOKEN_ERROR = 'GET_ESTOKEN_ERROR';
