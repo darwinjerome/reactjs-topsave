@@ -4,7 +4,7 @@ A white label Marketplace App (Web and Mobile) that uses React.js, Firestore and
 
 ## Author
 
-[Darwin Jerome](darwinjerome@gmail.com)
+[Darwin Jerome](darwin.tardio.info)
 
 ## Clients
 
