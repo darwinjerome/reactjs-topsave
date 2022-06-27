@@ -6,7 +6,7 @@ A white label Marketplace App (Web and Mobile) that uses React.js, Firestore and
 
 [Darwin Jerome](darwinjerome@gmail.com)
 
-## Client
+## Clients
 
 Various clients.
 
@@ -25,4 +25,3 @@ Various clients.
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [React Redux](https://react-redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
-- 
